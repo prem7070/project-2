@@ -1,0 +1,73 @@
+.logo{
+    background-color: rgb(245, 72, 9);
+}
+.formsbg{
+    background-image: url(./image/registration.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.blogimg1{
+    position: relative;
+    margin-top: 300px;
+}
+.blogimg2{
+    position: relative;
+    margin-top: 300px;
+}
+.blogimg3{
+    position: relative;
+    margin-top: 300px;
+}
+
+/* card hover */
+.op_bg{
+    opacity: 30%;
+}
+
+.card{
+    overflow: hidden;
+}
+
+.hover_bg:hover .card-img{
+ transform: scale(1.1);
+}
+
+/* <!--///////////////////////////////////////////////////--> */
+
+.index1header{
+    background-image: url(./image/page-header.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+/* --------index4---------- */
+
+.blogpage{
+    margin-left: 220px;
+    /* border-radius: 10px; */
+    padding: 7px;
+}
+.blogpage1{
+    margin-left: 173px;
+    padding: 7px;
+}
+.blogpage2{
+    margin-left: 185px;
+    padding: 7px;
+}
+.blogpage3{
+    margin-left: 200px;
+    padding: 7px;
+}
+.blogpage4{
+    margin-left: 253px;
+    padding: 7px;
+}
+
+.color-orange{
+    color: orangered;
+}
+
+
